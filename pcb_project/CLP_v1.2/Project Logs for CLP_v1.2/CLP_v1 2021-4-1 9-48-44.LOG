@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DCDC_5V Pin=K1-1
+Removed Pin From Net: NetName=NetC5_2 Pin=K1-2
+Removed Member From Class: ClassName=CLP_v1.2_Sch Member=K1
+Added Component: Designator=SW4(KFT DIP-7X7)
+Add component (AddParameter): Name = "BOM名称"; Value = "7*7自锁开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://lmdzstyle.taobao.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "黎明电子style"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_2 Pin=SW4-5
+Added Pin To Net: NetName=DCDC_5V Pin=SW4-6
+Added Member To Class: ClassName=CLP_v1.2_Sch Member=Component SW4 KET 7X7
+Added Room: Name=CLP_v1.2_Sch1
+Added Room: Name=CLP_v1.2_Sch

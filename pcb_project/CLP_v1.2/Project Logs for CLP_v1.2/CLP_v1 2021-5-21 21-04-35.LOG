@@ -1,0 +1,6 @@
+Added Component: Designator=SW1(SMD_KEY)
+Added Pin To Net: NetName=NetR12_2 Pin=SW1-1
+Added Pin To Net: NetName=NetR13_2 Pin=SW1-2
+Added Pin To Net: NetName=LCD_DATA5 Pin=SW1-3
+Added Pin To Net: NetName=LCD_DATA11 Pin=SW1-4
+Added Member To Class: ClassName=CLP_v1.2_Sch1 Member=Component SW1 DM-02-V

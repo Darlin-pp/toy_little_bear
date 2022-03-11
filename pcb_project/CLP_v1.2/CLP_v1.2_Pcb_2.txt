@@ -1,0 +1,17 @@
+Board Information Report
+Filename     : E:\workingrealm\Cloud_Ladder_Project\pcb_project\CLP_v1.2\CLP_v1.2_Pcb_2.PcbDoc
+Date         : 2021/5/27
+Time         : 23:49:44
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 57.088mmx76.9735mm
+    Components on board, 108
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 256
+    Connections routed, 256
+    Connections remaining, 0
+count : 4

@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=OV_SCL Pin=I.MX6UL_CORE-J1_31
+Removed Pin From Net: NetName=OV_SDA Pin=I.MX6UL_CORE-J1_32
+Removed Pin From Net: NetName=USDHC1_DATA2 Pin=R18-1
+Removed Pin From Net: NetName=DCDC_3V3 Pin=R18-2
+Removed Pin From Net: NetName=USDHC1_DATA3 Pin=R19-1
+Removed Pin From Net: NetName=DCDC_3V3 Pin=R19-2
+Removed Pin From Net: NetName=USDHC1_CMD Pin=R20-1
+Removed Pin From Net: NetName=DCDC_3V3 Pin=R20-2
+Removed Pin From Net: NetName=USDHC1_DATA0 Pin=R21-1
+Removed Pin From Net: NetName=DCDC_3V3 Pin=R21-2
+Removed Pin From Net: NetName=USDHC1_DATA1 Pin=R22-1
+Removed Pin From Net: NetName=DCDC_3V3 Pin=R22-2
+Removed Pin From Net: NetName=USDHC1_CD_B Pin=R23-1
+Removed Pin From Net: NetName=DCDC_3V3 Pin=R23-2
+Removed Member From Class: ClassName=CLP_v1.2_Sch1 Member=R18
+Removed Member From Class: ClassName=CLP_v1.2_Sch1 Member=R19
+Removed Member From Class: ClassName=CLP_v1.2_Sch1 Member=R20
+Removed Member From Class: ClassName=CLP_v1.2_Sch1 Member=R21
+Removed Member From Class: ClassName=CLP_v1.2_Sch1 Member=R22
+Removed Member From Class: ClassName=CLP_v1.2_Sch1 Member=R23
+Added Pin To Net: NetName=OV_SCL Pin=I.MX6UL_CORE-J2_31
+Added Pin To Net: NetName=OV_SDA Pin=I.MX6UL_CORE-J2_32
+Added Room: Name=CLP_v1.2_Sch1
+Added Room: Name=CLP_v1.2_Sch
